@@ -8,6 +8,7 @@ app.get("/ads", (request, response) => {
     { id: 2, ads: "Anuncio 2" },
     { id: 3, ads: "Anuncio 3" },
     { id: 4, ads: "Anuncio 4" },
+    { id: 5, ads: "Anuncio 5" },
   ]);
 });
 
